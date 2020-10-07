@@ -2,7 +2,7 @@ int main(){
   int width;
   int height;
   
-  
+  jejjejejej
   
   f = fopen(image, "r);
   
